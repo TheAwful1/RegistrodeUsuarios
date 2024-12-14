@@ -1,0 +1,7 @@
+c:\Users\User\Documents\Programming\Stack Net React\RegistrodeUsuarios\obj\Debug\net8.0\RegistrodeUsuarios.csproj.AssemblyReference.cache
+c:\Users\User\Documents\Programming\Stack Net React\RegistrodeUsuarios\obj\Debug\net8.0\RegistrodeUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Documents\Programming\Stack Net React\RegistrodeUsuarios\obj\Debug\net8.0\RegistrodeUsuarios.AssemblyInfoInputs.cache
+c:\Users\User\Documents\Programming\Stack Net React\RegistrodeUsuarios\obj\Debug\net8.0\RegistrodeUsuarios.AssemblyInfo.cs
+c:\Users\User\Documents\Programming\Stack Net React\RegistrodeUsuarios\obj\Debug\net8.0\RegistrodeUsuarios.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\Programming\Stack Net React\RegistrodeUsuarios\obj\Debug\net8.0\RegistrodeUsuarios.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\User\Documents\Programming\Stack Net React\RegistrodeUsuarios\obj\Debug\net8.0\RegistrodeUsuarios.MvcApplicationPartsAssemblyInfo.cache
